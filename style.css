@@ -1,0 +1,31 @@
+.kotak1 {
+	background-color: pink;
+	width: 80%;
+	margin-left: 20px;
+	margin-bottom: 50px;
+	border: 2px solid green;
+	padding-left: 10px;
+}
+
+.kotak2 {
+	background-color: yellow;
+	width: 90%;
+	margin-left: 20px;
+	margin-top: : 30px;
+	border: 2px solid green;
+	overflow: auto;	
+}
+
+.kotak2 p {
+	text-align: justify;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+img {
+	padding-top: 50px;
+	padding-left: 5px;
+	padding-bottom: 5px;
+	float: left;
+	padding-right: 10px;
+}
